@@ -19,6 +19,9 @@ The dataset was obtained from kaggle.It follows a star schema with three fact ta
 | Dim_doctors| doctors information | 500|
 | Dim_date | Date covering Jan 1st 2025 to Dec 31st 2026 | 729 |
 
+# Data Model
+![image alt] (https://github.com/Khadijat15/Healthcare-Clinic-Performance-Analysis/blob/9802023a39dd3b9e3ff983db09a324fa24097e78/visuals/Model.png)
+
 
 # SQL Analysis
 Sql analysis was done on Postgresql
